@@ -50,7 +50,7 @@ public class Lab_Questions
         System.out.print("Enter a float value: ");
         radius = input.nextFloat();
         //Calculate and print out area of circle
-        System.out.println("The area fir the circle of radius " + radius + " is " + (radius * radius * Math.PI));
+        System.out.println("The area for the circle of radius " + radius + " is " + (radius * radius * Math.PI));
     }
 
     //Lab Question 2
