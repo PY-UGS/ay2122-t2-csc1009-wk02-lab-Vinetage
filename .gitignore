@@ -1,7 +1,21 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
 
-.idea/misc.xml
-.idea/modules.xml
-*.xml
-out/production/ay2122-t2-csc1009-wk02-lab-Vinetage/.github/.keep
-*.iml
-*.class
+# File Directory Ignore
+/.gradle/
+/gradle/
+/.idea/
+/build/
+
+# File Type Ignore
+*.gradle
+*.bat
+
+# File Ignore
+gradlew
